@@ -1,6 +1,6 @@
 # Inventrom
 Python script that will fetch the data from given URL and plot the line graph.
-The x-axis will represent the time_stamp and y-axis will represent the humidity valuet.
+The x-axis will represent the time_stamp and y-axis will represent the humidity value.
 
 Steps:
 
