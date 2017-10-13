@@ -30,7 +30,7 @@ Working:
 
 1.Input  Url in the terminal.
 
-2.Browser Will be opened.
+2.Browser will open.
 
 3.Request will be used to send HTTP/1.1  request
 
